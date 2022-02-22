@@ -1,0 +1,12 @@
+
+    "tesztcim": [],
+    "b": "teszthatterS",
+    "f": "tesztfontS",
+
+    "j": "helyes!",
+    "r": "helytelen!",
+    "k": "end!",
+
+    "a": "require('electron').ipcRenderer.send('close')",
+
+    "fs": "10000000"

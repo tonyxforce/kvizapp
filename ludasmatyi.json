@@ -1,0 +1,86 @@
+{
+    "Ludas Matyi kvíz": [
+        {
+            "k": "Siheder korában szerette volna megismerni a világot. Mi volt ebben az első cél?",
+            "r": [
+                "A szomszéd község felkeresése",
+                "Kirándulás a közeli erdőbe",
+                "Nem tudom"
+            ],
+            "j": "Elmenni a döbrögi vásárba"
+        },
+        {
+            "k": "Édesanyja milyen ételeket csomagolt az útra?",
+            "r": [
+                "sonkát, két tojást, lángost",
+                "sok pogácsát és egy üveg bort",
+                "nem tudom"
+            ],
+            "j": "túrót, hájat, kenyeret, sót, fokhagymát"
+        },
+        {
+            "k": "Hány libát hajtott a vásárba Matyi?",
+            "r": [
+                "30-at",
+                "25-öt",
+                "15-öt"
+            ],
+            "j": "20-at"
+        },
+        {
+            "k": "Hány máriásért árulta a libák darabját?",
+            "r": [
+                "4",
+                "2",
+                "1"
+            ],
+            "j": "3"
+        },
+        {
+            "k": "Döbrögi hány botütéssel fizette ki Matyit?",
+            "r": [
+                "40",
+                "30",
+                "60"
+            ],
+            "j": "50"
+        },
+                {
+            "k": "Külföldön milyen mesterséget tanult ki Matyi, hogy első tartozását lerója?",
+            "r": [
+                "kőműves",
+                "bádogos",
+                "kovács"
+            ],
+            "j": "ács"
+        },
+        {
+            "k": "Egy lovat áruló fiatal vállalja, hogy magát Lúdas Matyinak nevezi, ezért az őrség üldözni kezdi. A bokorban rejtőzködő Matyi előjön. És?",
+            "r": [
+                "Elengedi a harmadik ütést",
+                "a lovat visszahozó siheder végzi el ezt a verést",
+                "nem tudom"
+            ],
+            "j": "Matyi személyesen végzi el a verést"
+        },
+        {
+            "k": "Források:",
+            "r": [
+                "https://stackoverflow.com/",
+                "https://kvizmester.com/ludas-matyi-kviz-mennyire-emlekszel-a-tortenetre/?playAgain=1645367974",
+                "https://electronjs.org/"
+            ],
+            "j": "kilépés"
+        }
+    ],
+    "b": "#222222",
+    "f": "aliceblue",
+
+    "j": "Jó válasz!",
+    "r": "Rossz válasz!",
+    "k": "Köszönöm a figyelmet!",
+
+    "a": "require('electron').ipcRenderer.send('close')",
+
+    "fs": 65
+}
